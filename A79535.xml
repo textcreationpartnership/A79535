@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A christal for the clergie, especially those that are corrupt in doctrine, scandalous in their lives and conversations. An. Dom. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79535</idno>
+            <idno type="STC">Wing C3932</idno>
+            <idno type="STC">Thomason E135_40</idno>
+            <idno type="STC">ESTC R16423</idno>
+            <idno type="EEBO-CITATION">99860031</idno>
+            <idno type="PROQUEST">99860031</idno>
+            <idno type="VID">156456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156456)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A christal for the clergie, especially those that are corrupt in doctrine, scandalous in their lives and conversations. An. Dom. 1641.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Decorative device on t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Controversial literature --  Early works to 1800.</term>
+               <term>Church of England --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156456:1" rendition="simple:additions"/>
+            <p>A CHRISTAL For the CLERGIE, Eſpecially thoſe that are corrupt in Do<g ref="char:EOLhyphen"/>ctrine, ſcandalous in their lives and con<g ref="char:EOLhyphen"/>verſations. <hi>An. Dom.</hi> 1641.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R.P.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156456:2"/>
+            <pb facs="tcp:156456:2"/>
+            <head>A CHRISTALL FOR THE <hi>Cleargy</hi> that are corrupt in Doctrine, ſcandalous and impure in their lives and converſations, <hi>Anno Dom.</hi> 1641.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F we judiciouſly view ancient Hiſtories as well Divine as Morall, as the preſent corruption of the times, we ſhall finde that thoſe of impure and uncleane ſpirits of the Cleargy, corrupt in their Doctrine, tyrannicall in their government, ſcandalous in their lives and converſation, have alwaies beene the roote and firſt beginning of the deſtruction of Kingdomes and Common-wealths, when they are increaſed with riches and pompe of this world, by which they wax proud and ambitious; they aſpire to ſit in places of great power and authority in Kingdomes and States, both Spirituall and Temporall, which having attained, ſo preſumptuous is pride, they dare preſume to denominate themſelves Lords, nay higher in authority then Princes and Emperours, nay to command and compell them to doe what pleaſeth their deſires and fantaſies, and nothing elſe, though never ſo contrary to the word of God, or contrary to naturall reaſon or morall civility, and if theſe then deſires be neglected or rejected, then never reſt they till they have brought to ruine ſuch Kings and their Kingdomes.</p>
+            <p>I deſire Reader you would peruſe this little Yreatiſe which I tearmed a Chriſtall for the Cleargy, and you will eaſily diſcerne that the corruption, pride, ambition and luxuriouſneſſe of the Cleargy in antient time, exerciſing tyranny as well over Prin<g ref="char:EOLhyphen"/>ces as their people who they have wonne, and as it were ſubje<g ref="char:EOLhyphen"/>cted to their obedience, and that in theſe our times, and this our
+<pb facs="tcp:156456:3"/>Kingdome doth little ornothing differ. The Biſhops of Rome having attained to the higheſt ſtep of honour and dignity that ever was any in the whole Kingdome, and having obtained the power of both ſwords, the ſword of the Spirit, and the ſword of the Magiſtrate, they then beganne to diſplay their banners, both as King and Biſhop, and whom they could not bring to their obedience by the one, they then exerciſed and uſed the other: In their firſt combat they had to fight with any to ſubdue them and draw them to their faction, they uſed their thunderbolts of excommunication and curſing, this was terrible to Kings and Emperours; if this failed, then treacheries and treaſonable pra<g ref="char:EOLhyphen"/>ctiſes of ſubjects againſt their lawfull Princes by poyſoning, powder plots, ſtabbings and the like: if theſe prevailed not, they procured the nationall war, one Kingdome againſt ano<g ref="char:EOLhyphen"/>ther: I will only give a touch of either, and then compare them to theſe times.</p>
+            <p>Firſt, <hi>Platina</hi> in the life of <hi>Gregory</hi> the 7. ſheweth that this Emperour <hi>Henry</hi> the fourth was excommunicated by the Pope: afterward he addeth, the Emperour ſaith he came ſpeedily to <hi>Canoſie,</hi> where the Biſhop was with <hi>Mathilda,</hi> and by and by laying aſide his royall robes, went bare foot to the gates of the City and humbly required to be let in, his entring denied he took in good part, notwithſtanding that the winter was ſharpe and all was frozen hard, remaining three dayes in the Suburbs of the Towne continually craving pardon, at length at the requeſt of <hi>Mathilda</hi> and the Earle of <hi>Savoy</hi> and the Abbot of <hi>Chinnes,</hi> he is abſolved.</p>
+            <p>
+               <hi>Frederick Barbarouſe</hi> that he might be reconciled to the Pope laid his neck under his feet to be trodden on: The Venetians beſieged <hi>Farrare</hi> which paieth tribute to the Church of <hi>Rome,</hi> forthe which cauſe they were excommunicated by <hi>Clement</hi> the fifth; therefore <hi>Francis Dandalous</hi> which was afterward created Duke, went into <hi>France</hi> where that time the Biſhop was to aske pardon for that offence; long it was ere ever he was ad<g ref="char:EOLhyphen"/>mitted to come in the Popesſight, at laſt he was led with an iron chaine about his necke to the Biſhops table like a dog, and there faine to be under the table amongſt the dogges ſo long till the wrath of <hi>Clement</hi> without all clemency being over paſt. This is written in <hi>Sabellicus</hi> in the end of the 91. <hi>Encide</hi> the 7.
+<pb facs="tcp:156456:3"/>both full manifeſt are the injuries of this beaſt done to other Kings and people. And thus much of their firſt meanes to bring as well Princes as people to their ſubjection.</p>
+            <p>I come now to the ſecond meanes practiſed by the Biſhops to draw both Princes and people to ſubjection, and that in briefe, <hi>Platina</hi> writing of <hi>Gregory</hi> the fifth. <hi>Silveſter</hi> the ſecond, ſaith he, before called <hi>Gilbert</hi> a Monk of <hi>Florey</hi> forſaking his Monaſtery followed the Divel, to whom he gave himſelf whole: and by and by he addeth, <hi>Gllbert</hi> moved with ambition and a diveliſh deſire to rule through bribery got firſt the Archbiſhop<g ref="char:EOLhyphen"/>rick of Regns, afterward of Ravenna, and after with greater ſuit the Divell furtnering him, he obtained to be Pope, yet un<g ref="char:EOLhyphen"/>der this condition, that after his death he ſhould be the Divells wholy, &amp;c.</p>
+            <p>
+               <hi>Beno</hi> in the life and acts of <hi>Hildebrand</hi> called <hi>Gregory</hi> the ſeventh, one <hi>Gilbertus</hi> which had infected the city with ſorcery, ſaith he, after the thouſand yeares fulfilled, comming up out of the bottomleſſe pit, of Gods permiſſion was Pope foure yeares, and changing his name was called <hi>Silveſter</hi> the ſecond, and after <hi>Gilbert</hi> the yeare 25. <hi>Theophilactus</hi> his ſcholer atchived the ſeat violently, called <hi>Benedict</hi> the ſeventh, after him <hi>Gratian</hi> called <hi>Gregory</hi> the ſixt, after him <hi>Sabinus</hi> and he was called <hi>Silveſter</hi> the third: all theſe three were Popes at one time. <hi>Henry</hi> the ſecond Emperor a godly man and valiant, going to Rome, to purge the Church, compelled <hi>Benedict</hi> or <hi>Theophilact</hi> the Ma<g ref="char:EOLhyphen"/>gitian to flee, eaſt <hi>Gregory</hi> into priſon, and ſent away <hi>Silveſter</hi> to his old Biſhoprick; and he holding a Counſell placed the Biſhop of Bamberge whom hee called <hi>Clement,</hi> in the ſeate, of whom alſo he received the Crowne, and he brought <hi>Gregory</hi> with his diſciple <hi>Hildebrand</hi> with him into Germany: In the meane time <hi>Benedict</hi> returning to Rome from flight, vexeth <hi>Clement,</hi> and with much inchanting infecteth the City, and by letters recea<g ref="char:EOLhyphen"/>ved from <hi>Hildebrand</hi> out of Germany, he learneth what is done in the Emperors Court. <hi>Gregory</hi> dieth there in priſon and leſt <hi>Hildebrand</hi> his heire, both of his falſe packing and of his mony. <hi>Clement</hi> dieth alſo whom <hi>Damaſus</hi> the ſecond ſucceedeth imme<g ref="char:EOLhyphen"/>diately but ſtraightwaies poiſoned; and <hi>Junio</hi> called <hi>Leo</hi> the ninth ſucceeded in his place. And thus much of the ſecond meanes practiſed by Biſhops to raiſe themſelves into places of
+<pb facs="tcp:156456:4"/>authority, and to bring all that oppoſe and reſiſt them to their ſubjection or utter confuſion.</p>
+            <p n="3">3 Thirdly and laſtly, a word or two of their laſt meanes when neither of them can prevaile to bring their purpoſes to perfecti<g ref="char:EOLhyphen"/>on; that is, by raiſing warres and ſeditions in Kingdomes, one againſt another, wherein they have ſhewed themſelves more mercileſſe and cruell then the moſt heatheniſh and barbarous nations in the world: <hi>Benedict</hi> otherwiſe <hi>Theophilact,</hi> which be<g ref="char:EOLhyphen"/>fore I have mentioned, was carried by the Emperor priſoner into Germany, returning with <hi>Leo</hi> the ninth, he armed <hi>Leo</hi> againſt the Normans and betraied him to them; the Germans there<g ref="char:EOLhyphen"/>fore flaine by Treaſon, <hi>Leo</hi> himſelfe hardly eſcaped: <hi>Hildebrand</hi> himſelfe by degrees obtained the Popedome, where he ſo car<g ref="char:EOLhyphen"/>ried himſelfe that no man except blind but might perceive his diveliſh government requited: the Emperor <hi>Henry</hi> the fourth for his carring away into Germany by <hi>Henry</hi> the ſecond. This Pope alſo excommunicateth <hi>Henry</hi> the fourth, deprived him of the dignity Imperiall: moreover hee ſtirred up his ſubjects a<g ref="char:EOLhyphen"/>gainſt him; and abſolved the Rebells and Traitors of their oathes of fidelity, and he himſelfe like a Monarch gave the Crowne of the Empire unto others at his pleaſure. The power therefore and treaſure of the Empire hath he ſo worne and waſted, what with civil and what with forraigne warrs, that theſe many yeers now the Kings of Almaine have never beene able to recover their force, nor yet to reſiſt the moſt Arrogant tyranny of the Popes. <hi>Gregory</hi> the ninth whilſt <hi>Fredericke</hi> that Excellent Prince made war in Siria for religion with the Soldan, invaded and kept the Provinces of <hi>Frederick.</hi> There were cruell warres be<g ref="char:EOLhyphen"/>twixt the Popes and this <hi>Frederick. Innocentius</hi> the fourth, ſtir<g ref="char:EOLhyphen"/>reth up the Prince of Theoring againſt <hi>Conrade</hi> the fourth of that name, and Sonne of <hi>Fredericke</hi> the ſecond, and when the Emperour <hi>Conrade</hi> was dead the Pope obtained the good will of the Neapolitanes, to yeeld themſelves to the See of Rome: <hi>Conrade</hi> a Sonne and heire, <hi>Conradine,</hi> and <hi>Manfrede</hi> his baſtard Brother, which would bee called King of Cicily, wherefore Pope <hi>Vrbano</hi> the fourth, Sonne to King <hi>Clement</hi> the fourth, <hi>Manfred</hi> ſent for <hi>Charles</hi> Brother to <hi>Lewis</hi> the french King, Earl of Province, and of Gaunt, to come with an Army into Italy, and called him King of Cicilie, who overcame and ſlew <hi>Man<g ref="char:EOLhyphen"/>fred</hi>
+               <pb facs="tcp:156456:4"/>at <hi>Bewent,</hi> and received the Kingdomes of the Pope to doe him homage: There were ſlaine in the battell betweene them 12000. the occaſion thereof being the Popes. Many ſuch like in<g ref="char:EOLhyphen"/>ſtances might be taken out of Hiſtory, but theſe ſhall ſuffice for the preſent, it only remaines to compare the impurity, tyranny and malice of thoſe Biſhops in the beginning of ſuperſtition &amp; idolatry, and theſe times wherein we now live, with the Bi<g ref="char:EOLhyphen"/>ſhops and Clergy of this Kingdome.</p>
+            <p>What hath beene more uſed by our Biſhops of our time, eſ<g ref="char:EOLhyphen"/>pecially the Archbiſhop of Canterbury in his hierarchy at Lam<g ref="char:EOLhyphen"/>beth, in his Courts of inquiſition, high Commiſſion I would ſay, then excommunications, deprivations, and degradations of lear<g ref="char:EOLhyphen"/>ned and zealous Miniſters and teachers of the word of God, and other his Majeſties good and loyall ſubjects ſo far as their power could extend, beganne to deny the Princes ſupremacy in cauſes eccleſiaſticall, what may we conceive would they have attemp<g ref="char:EOLhyphen"/>ted, if God in mercy by the wiſdome of our gracious Soveraign, and his great Councell of State had not prevented the ſame.</p>
+            <p>Secondly, what diveliſh practice, what ſtratagem, what trea<g ref="char:EOLhyphen"/>ſon, by poyſoning &amp; otherwiſe attempted by the Arch enemies of our peace, the Prieſts and Ieſuits, againſt not onely the per<g ref="char:EOLhyphen"/>ſons of godly and Religious Peers, the whole Parliament, and ſtate of the Kingdome, but they directly or indirectly have had a hand in the ſame, what then may we thinke of them if they had power to their malice?</p>
+            <p>Thirdly and laſtly, what commotions in Scotland, what warres betweene England and that Kingdome did they endea<g ref="char:EOLhyphen"/>vour to ſtir up and raiſe, ſeeking by the deſtruction and confu<g ref="char:EOLhyphen"/>ſion of both Kingdomes, to worke their ends and purpoſes, and what diſtractions and troubles hath beene in this Kingdome, what miſeries and calamities that are fallen upon Ireland, but ſome of the Biſhops have beene agitators and actors therein.</p>
+            <p>And thus much of this Chriſtall wherein the Clergy that are concerned may cleerly ſee themſelves and their actions, and learne to amend and turne from their evills wayes, doing good in the Church for the evill they have formerly practiſed, which God grant, or otherwiſe cut them off, or remove them from a<g ref="char:EOLhyphen"/>mongſt his children and Saints, that their examples may be no more ſtumbling blocks to hinder their walking in the paths of righteouſneſſe, piety and godlineſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
